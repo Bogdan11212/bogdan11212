@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [replit.com/bogdan11212](replit.com/bogdan11212)
 
-- ⚡ Fun fact **i am mobile coder**
+- ⚡ Fun fact **nope**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
