@@ -1,3 +1,4 @@
+----------------# my description---------
 <h1 align="center">hey sweetie 👋, I'm frostout (bogdan11212)</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
@@ -7,20 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [discord bots](telegram bots)
-
 - 🌱 I’m currently learning **python, JavaScript, typescript**
 
 - 🟨 I’m looking to collaborate on [discord.js](aiogramAPI)
 
-- 🤝 I’m looking for help with [2](2)
-
 - 👨‍💻 All of my projects are available at [GitHub.com/bogdan11212](GitHub.com/bogdan11212)
 
-- 📝 I regularly write articles on [frostout.000.pe/]
 - 💬 Ask me about **i am not bad developer**
 
-- 📫 How to reach me **plzzt@yandex.ru or baga10255@gmail.com**
+- 📫 How to reach me **plzzt@yandex.ru or frostout@internet.ru**
 
 - 📄 Know about my experiences [replit.com/bogdan11212](replit.com/bogdan11212)
 
