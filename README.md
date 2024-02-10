@@ -7,17 +7,12 @@
 
 - 🌱 I’m currently learning **jango,c#,c++**
 
-- ❤️🧡💛 coloborate **https://github.com/Bogdan11212/selfstream-for-discord**
-
-- 👨‍💻 All of my projects are available at [http://muz.ic/frostout](http://muz.ic/frostout)
-
 - 📝 I regularly online in [https://BBorikin.t.me](https://BBorikin.t.me)
 
 - 💬 Ask me any questions **i reply you**
 
 - 📫 How to reach me **plzzr@yandex.ru , frostout@internet.ru , BBorokin@bk.ru**
 
-- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
