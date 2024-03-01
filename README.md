@@ -1,4 +1,3 @@
-# Bogdan Borokin's readme
 
 <h3 align="center">web developer, designer, bots and apps developer</h3>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
